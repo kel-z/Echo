@@ -4,7 +4,7 @@ A concept 2-D Side Scroller RPG developed in Unity as a submission to Global Gam
 ### The Team:
 - Justin Lui (Developer)
 - Kelvin Zhao (Developer)
-- Alexa Gogoescu (Artist, Developer)
+- Alexa Gogoescu (Team Lead, Creative Director)
 - Yannan Zhu (Artist, Developer)
 - Adam Garay (Musician)
 - Rogan Woolvett (Voice Actor)
