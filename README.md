@@ -6,5 +6,5 @@
 3. Run GameJam.exe
 
 ### Controls:
-Movement - W A S D
+Movement - W A S D  
 Echo - E
