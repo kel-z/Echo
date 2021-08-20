@@ -16,6 +16,6 @@ A child is lost in the forest, separated from their mother, and has suddenly los
 Movement - W A S D  
 Echo - E
 
-![Mystical Creature](Echo-Level-Art2.png)
+![Mystical Creature](Echo-Level-Art-2.png)
 ![Dark Forest](Echo-Level-Art.png)
 ![Boss Fight](Echo-Boss-Art.png)
