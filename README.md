@@ -1,6 +1,7 @@
 # Echo
 
-A 2-D Side Scroller RPG developed in Unity as a submission to Global Game Jam 2020.
+A 2-D Side Scroller RPG developed in Unity as a submission to Global Game Jam 2020.  
+
 ![Echo Splash Art](Echo-Splash-Art.png)
 
 ### How to Play:
