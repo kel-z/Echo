@@ -1,6 +1,6 @@
 # Echo
 
-A concept 2-D Side Scroller RPG developed in Unity as a submission to Global Game Jam 2020.  
+A concept 2D Side Scroller RPG developed in Unity as a submission to Global Game Jam 2020.  
 ### The Team:
 - Justin Lui (Developer)
 - Kelvin Zhao (Developer)
